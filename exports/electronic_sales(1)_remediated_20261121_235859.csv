@@ -1,0 +1,1001 @@
+OrderID,CustomerName,Age,Gender,City,Product,Category,Price,Quantity,PaymentMethod
+1000,Sam,50,Female,Kozhikode,Headphones,Electronics,,5.0,Debit Card
+1001,Rahul,,Female,Chennai,Phone,Electronics,,3.0,
+1002,Divya,,M,Kozhikode,Camera,Electronics,,1.0,Upi
+1003,Rahul,29,M,Kozhikode,Headphones,Electronics,,5.0,Bitcoin
+1004,Vikram,26,Female,Chennai,Phone,Electronics,,2.0,Upi
+1005,Ravi,,Male,Chennai,Phone,Electronics,,3.0,Upi
+1006,Meera,Thirty,Female,Trivandrum,Headphones,Electronics,Not_Available,3.0,Upi
+1007,Ravi,Thirty,Male,Trivandrum,Tablet,Electronics,Not_Available,4.0,Credit Card
+1008,Megha,20,Male,Chennai,Camera,Electronics,,5.0,Debit Card
+1009,Megha,Thirty,M,,Camera,Electronics,Not_Available,1.0,Debit Card
+1010,Arjun,,Female,Trivandrum,Phone,Electronics,,3.0,Bitcoin
+1011,Aisha,,F,Kochi,Phone,Electronics,,3.0,Upi
+1012,Arjun,Thirty,Female,Kozhikode,Camera,Electronics,24903,2.0,Cash
+1013,Tom,,Male,Trivandrum,Laptop,Electronics,,3.0,Debit Card
+1014,Anjali,30,Female,,Phone,Electronics,,3.0,Credit Card
+1015,Anjali,26,M,Kochi,Phone,Electronics,Not_Available,3.0,Debit Card
+1016,Anjali,,Male,Kozhikode,Headphones,Electronics,1152,3.0,Upi
+1017,Rahul,Thirty,Female,,Tablet,Electronics,,3.0,Cash
+1018,Neha,,Female,Trivandrum,Headphones,Electronics,Not_Available,4.0,Bitcoin
+1019,Ravi,Thirty,Female,Chennai,Phone,Electronics,,3.0,Credit Card
+1020,Neha,,Female,Trivandrum,Laptop,Electronics,,3.0,Bitcoin
+1021,Sam,,Male,,Camera,Electronics,53375,3.0,
+1022,Vikram,33,Male,Bangalore,Laptop,Electronics,,5.0,Credit Card
+1023,Kiran,,Female,Bangalore,Tablet,Electronics,,3.0,Bitcoin
+1024,Divya,33,M,Kozhikode,Laptop,Electronics,,3.0,Cash
+1025,Arjun,Thirty,Male,Chennai,Camera,Electronics,,3.0,
+1026,John,Thirty,F,Chennai,Camera,Electronics,,1.0,Credit Card
+1027,Megha,18,F,Kozhikode,Phone,Electronics,Not_Available,3.0,Cash
+1028,Meera,34,F,Chennai,Tablet,Electronics,38149,1.0,Debit Card
+1029,John,,M,Kochi,Tablet,Electronics,30959,3.0,Credit Card
+1030,Aisha,,Female,Kozhikode,Phone,Electronics,,3.0,Upi
+1031,Anu,Thirty,Male,,Headphones,Electronics,,3.0,Cash
+1032,Tom,,M,Trivandrum,Tablet,Electronics,,3.0,Upi
+1033,Sam,Thirty,Female,Kochi,Headphones,Electronics,,1.0,Credit Card
+1034,John,,Female,,Headphones,Electronics,Not_Available,1.0,Credit Card
+1035,Neha,,F,Trivandrum,Camera,Electronics,Not_Available,3.0,Debit Card
+1036,Kiran,30,M,,Headphones,Electronics,Not_Available,3.0,Credit Card
+1037,Aisha,Thirty,Female,Bangalore,Phone,Electronics,,3.0,Bitcoin
+1038,Meera,Thirty,Male,,Headphones,Electronics,Not_Available,3.0,
+1039,Aisha,24,F,Trivandrum,Laptop,Electronics,43582,3.0,Debit Card
+1040,Anu,,M,,Tablet,Electronics,Not_Available,3.0,Credit Card
+1041,John,Thirty,Male,Kochi,Headphones,Electronics,Not_Available,3.0,
+1042,Vikram,,F,,Camera,Electronics,54042,3.0,
+1043,Megha,,F,Kochi,Headphones,Electronics,,3.0,Bitcoin
+1044,Anjali,,F,Trivandrum,Laptop,Electronics,,3.0,Upi
+1045,Meera,,Female,Trivandrum,Tablet,Electronics,27864,3.0,Bitcoin
+1046,John,42,Female,Kochi,Phone,Electronics,15502,3.0,
+1047,Anu,,F,Kozhikode,Tablet,Electronics,,2.0,
+1048,Meera,,M,Chennai,Camera,Electronics,38933,1.0,Credit Card
+1049,Kiran,Thirty,F,Kozhikode,Laptop,Electronics,,3.0,Credit Card
+1050,Megha,,Male,Bangalore,Headphones,Electronics,,2.0,Bitcoin
+1051,Arjun,23,Male,Kozhikode,Tablet,Electronics,Not_Available,3.0,Credit Card
+1052,Anu,,Female,Kozhikode,Phone,Electronics,,3.0,Bitcoin
+1053,Tom,,F,,Tablet,Electronics,,3.0,Bitcoin
+1054,Tom,Thirty,Female,Kochi,Camera,Electronics,48960,3.0,
+1055,Anu,,Female,,Laptop,Electronics,54532,1.0,Cash
+1056,Kiran,,F,Kozhikode,Phone,Electronics,32076,1.0,Upi
+1057,Neha,42,Male,Kochi,Tablet,Electronics,Not_Available,3.0,Cash
+1058,Aisha,Thirty,Male,,Tablet,Electronics,,3.0,Credit Card
+1059,Anjali,46,M,Kozhikode,Laptop,Electronics,7894,3.0,Debit Card
+1060,Sam,Thirty,M,Kozhikode,Phone,Electronics,Not_Available,3.0,Upi
+1061,Sam,Thirty,F,Kozhikode,Laptop,Electronics,,3.0,Credit Card
+1062,Arjun,32,F,Kochi,Camera,Electronics,,3.0,
+1063,Kiran,Thirty,M,,Headphones,Electronics,Not_Available,4.0,Debit Card
+1064,Meera,,Male,,Camera,Electronics,Not_Available,4.0,Credit Card
+1065,Arjun,,M,Bangalore,Phone,Electronics,50129,3.0,Upi
+1066,Meera,28,F,,Laptop,Electronics,43796,5.0,Cash
+1067,Vikram,,Male,,Phone,Electronics,Not_Available,2.0,Upi
+1068,Arjun,,M,,Tablet,Electronics,,3.0,
+1069,Tom,Thirty,Female,Trivandrum,Laptop,Electronics,,3.0,Credit Card
+1070,Vikram,Thirty,Female,Bangalore,Laptop,Electronics,53454,3.0,Debit Card
+1071,Arjun,40,Male,Bangalore,Phone,Electronics,44206,3.0,Credit Card
+1072,Vikram,47,M,Chennai,Tablet,Electronics,,1.0,
+1073,Sam,Thirty,F,Trivandrum,Phone,Electronics,6070,3.0,Cash
+1074,Anu,,F,Bangalore,Tablet,Electronics,43263,3.0,Cash
+1075,Sam,Thirty,F,Kozhikode,Headphones,Electronics,29880,3.0,
+1076,Tom,,F,Kozhikode,Laptop,Electronics,,3.0,Upi
+1077,Ravi,36,M,Chennai,Camera,Electronics,,1.0,Cash
+1078,Tom,,Female,Kozhikode,Laptop,Electronics,Not_Available,5.0,
+1079,John,,F,Kochi,Laptop,Electronics,Not_Available,2.0,Upi
+1080,Rahul,,F,Trivandrum,Laptop,Electronics,,3.0,Credit Card
+1081,Divya,Thirty,F,,Tablet,Electronics,17945,3.0,Bitcoin
+1082,Anjali,,F,Trivandrum,Camera,Electronics,,3.0,Upi
+1083,Neha,50,M,Bangalore,Laptop,Electronics,Not_Available,3.0,
+1084,Sam,,F,Trivandrum,Headphones,Electronics,Not_Available,3.0,Credit Card
+1085,Vikram,,M,Trivandrum,Tablet,Electronics,,2.0,Upi
+1086,Anjali,Thirty,Male,Chennai,Tablet,Electronics,,1.0,
+1087,Meera,,M,,Laptop,Electronics,,3.0,Credit Card
+1088,Neha,Thirty,Female,Bangalore,Tablet,Electronics,2920,3.0,Debit Card
+1089,Vikram,34,M,Bangalore,Headphones,Electronics,,1.0,Cash
+1090,Rahul,,M,Chennai,Laptop,Electronics,58647,1.0,Cash
+1091,Aisha,,M,Kochi,Headphones,Electronics,,3.0,Debit Card
+1092,Anu,49,Male,Bangalore,Phone,Electronics,,1.0,
+1093,John,,Female,Chennai,Camera,Electronics,,3.0,Cash
+1094,Arjun,36,M,Bangalore,Tablet,Electronics,,3.0,Upi
+1095,Ravi,Thirty,Female,Bangalore,Camera,Electronics,43913,3.0,Upi
+1096,Sam,,Female,,Laptop,Electronics,33434,3.0,
+1097,John,42,Male,Bangalore,Laptop,Electronics,,3.0,Debit Card
+1098,Aisha,,Male,Chennai,Laptop,Electronics,,3.0,Cash
+1099,Sam,28,Female,Kozhikode,Laptop,Electronics,,3.0,Upi
+1100,Kiran,,M,Kozhikode,Phone,Electronics,,1.0,Credit Card
+1101,Rahul,Thirty,Male,Kochi,Headphones,Electronics,,3.0,Bitcoin
+1102,Sam,Thirty,Female,Kozhikode,Tablet,Electronics,,5.0,Upi
+1103,Sam,,Male,,Phone,Electronics,42321,3.0,Cash
+1104,Megha,Thirty,M,Trivandrum,Phone,Electronics,Not_Available,3.0,Credit Card
+1105,Vikram,,Male,Bangalore,Laptop,Electronics,Not_Available,2.0,Debit Card
+1106,Neha,Thirty,F,Chennai,Headphones,Electronics,Not_Available,3.0,Cash
+1107,Tom,,F,,Camera,Electronics,,5.0,Cash
+1108,Divya,20,F,Chennai,Camera,Electronics,8028,3.0,Credit Card
+1109,Anu,Thirty,F,Trivandrum,Laptop,Electronics,,3.0,Credit Card
+1110,Sam,,Female,Kochi,Phone,Electronics,,3.0,Credit Card
+1111,Neha,Thirty,M,Bangalore,Tablet,Electronics,,3.0,Cash
+1112,Rahul,,Male,Kozhikode,Tablet,Electronics,Not_Available,3.0,Credit Card
+1113,Ravi,,F,Chennai,Tablet,Electronics,Not_Available,3.0,Bitcoin
+1114,Anu,,M,Kochi,Camera,Electronics,Not_Available,3.0,Bitcoin
+1115,Meera,,M,Kozhikode,Camera,Electronics,Not_Available,3.0,Cash
+1116,Anu,,M,Trivandrum,Tablet,Electronics,,3.0,
+1117,Sam,Thirty,M,Kozhikode,Phone,Electronics,36795,3.0,Upi
+1118,Vikram,,Female,Kozhikode,Laptop,Electronics,,3.0,Credit Card
+1119,John,,F,Chennai,Tablet,Electronics,,3.0,Cash
+1120,Kiran,29,F,Kozhikode,Tablet,Electronics,,3.0,Debit Card
+1121,Anu,,F,Kochi,Tablet,Electronics,Not_Available,3.0,Cash
+1122,Megha,,F,Chennai,Camera,Electronics,,3.0,Cash
+1123,Kiran,49,M,Kochi,Phone,Electronics,,1.0,
+1124,Sam,50,M,Kozhikode,Phone,Electronics,,3.0,
+1125,Aisha,Thirty,F,Kochi,Tablet,Electronics,Not_Available,3.0,Debit Card
+1126,Rahul,35,Male,Trivandrum,Camera,Electronics,,3.0,Upi
+1127,Megha,,F,Chennai,Phone,Electronics,Not_Available,3.0,Cash
+1128,Kiran,Thirty,M,Chennai,Camera,Electronics,,4.0,Upi
+1129,Aisha,,F,Kochi,Laptop,Electronics,28970,3.0,Bitcoin
+1130,Rahul,,Male,Bangalore,Headphones,Electronics,Not_Available,3.0,Upi
+1131,Aisha,Thirty,Male,Bangalore,Tablet,Electronics,,3.0,Upi
+1132,Kiran,23,F,Kozhikode,Headphones,Electronics,,5.0,Cash
+1133,John,28,Female,Trivandrum,Headphones,Electronics,Not_Available,3.0,Upi
+1134,Ravi,,Male,Kozhikode,Laptop,Electronics,Not_Available,1.0,Upi
+1135,Divya,Thirty,F,Chennai,Phone,Electronics,Not_Available,4.0,Debit Card
+1136,Ravi,Thirty,F,Chennai,Laptop,Electronics,Not_Available,3.0,
+1137,Sam,Thirty,M,Kozhikode,Headphones,Electronics,5870,3.0,
+1138,Tom,47,Female,Chennai,Camera,Electronics,Not_Available,3.0,Credit Card
+1139,Vikram,,Female,,Tablet,Electronics,,3.0,Cash
+1140,Meera,,Female,Kochi,Camera,Electronics,Not_Available,3.0,
+1141,Rahul,,M,Chennai,Headphones,Electronics,,3.0,Credit Card
+1142,John,Thirty,Male,Chennai,Tablet,Electronics,,3.0,Upi
+1143,Rahul,,F,Kochi,Tablet,Electronics,42856,3.0,Debit Card
+1144,Divya,36,Female,,Laptop,Electronics,,3.0,Debit Card
+1145,Anjali,Thirty,Female,Trivandrum,Tablet,Electronics,,1.0,Credit Card
+1146,Aisha,36,Male,Kozhikode,Camera,Electronics,53053,3.0,
+1147,Tom,,Female,Kozhikode,Camera,Electronics,,3.0,Credit Card
+1148,Megha,,Female,Trivandrum,Phone,Electronics,,2.0,Bitcoin
+1149,Kiran,Thirty,M,Chennai,Headphones,Electronics,6045,3.0,Bitcoin
+1150,Divya,,F,Bangalore,Laptop,Electronics,Not_Available,3.0,
+1151,Arjun,,Female,Kozhikode,Camera,Electronics,,3.0,
+1152,Sam,Thirty,Male,Bangalore,Laptop,Electronics,,3.0,Cash
+1153,Arjun,Thirty,M,Kochi,Headphones,Electronics,Not_Available,3.0,Upi
+1154,Divya,,M,Kozhikode,Phone,Electronics,Not_Available,3.0,Bitcoin
+1155,John,,Male,Bangalore,Phone,Electronics,,5.0,Credit Card
+1156,Ravi,,M,,Laptop,Electronics,,2.0,
+1157,Megha,Thirty,Female,Bangalore,Laptop,Electronics,,1.0,Cash
+1158,Sam,,Male,,Phone,Electronics,28607,3.0,Credit Card
+1159,Sam,48,Male,Trivandrum,Tablet,Electronics,,3.0,
+1160,Anu,,M,,Camera,Electronics,13912,3.0,Credit Card
+1161,Kiran,,Female,Chennai,Phone,Electronics,34774,3.0,
+1162,Sam,46,M,Kozhikode,Camera,Electronics,,3.0,Cash
+1163,Vikram,Thirty,Female,Chennai,Tablet,Electronics,,3.0,Credit Card
+1164,Tom,38,F,,Headphones,Electronics,,2.0,
+1165,John,25,F,Trivandrum,Phone,Electronics,Not_Available,5.0,
+1166,Kiran,,F,Kozhikode,Laptop,Electronics,Not_Available,4.0,
+1167,Anjali,Thirty,F,Chennai,Camera,Electronics,,3.0,Bitcoin
+1168,John,25,F,Chennai,Camera,Electronics,,3.0,Upi
+1169,Aisha,,F,Bangalore,Camera,Electronics,,3.0,Cash
+1170,Rahul,,Female,Kozhikode,Tablet,Electronics,,3.0,Bitcoin
+1171,Aisha,,M,,Laptop,Electronics,37682,3.0,
+1172,Meera,Thirty,F,Bangalore,Tablet,Electronics,,3.0,
+1173,Rahul,,Female,Chennai,Laptop,Electronics,,5.0,Credit Card
+1174,Anu,,Female,Kochi,Camera,Electronics,24787,3.0,Bitcoin
+1175,Arjun,Thirty,Female,Kochi,Laptop,Electronics,Not_Available,5.0,Credit Card
+1176,Sam,,Female,Bangalore,Phone,Electronics,,1.0,Upi
+1177,Kiran,,F,Trivandrum,Headphones,Electronics,24731,1.0,Credit Card
+1178,Sam,44,F,Trivandrum,Camera,Electronics,Not_Available,2.0,Debit Card
+1179,Sam,49,Female,Kozhikode,Tablet,Electronics,,3.0,Bitcoin
+1180,Anjali,44,Male,Kozhikode,Phone,Electronics,52272,4.0,Upi
+1181,Tom,21,F,Kozhikode,Camera,Electronics,,4.0,Cash
+1182,Vikram,Thirty,M,Chennai,Phone,Electronics,,5.0,Credit Card
+1183,Neha,,Female,Kozhikode,Phone,Electronics,Not_Available,3.0,Debit Card
+1184,Sam,Thirty,Female,Kochi,Headphones,Electronics,Not_Available,3.0,
+1185,Sam,Thirty,Female,,Camera,Electronics,,3.0,Credit Card
+1186,Divya,,F,Kozhikode,Phone,Electronics,5741,3.0,Credit Card
+1187,Anu,Thirty,M,,Headphones,Electronics,,5.0,Bitcoin
+1188,Sam,Thirty,M,Kozhikode,Laptop,Electronics,56410,3.0,Upi
+1189,Megha,,M,Bangalore,Headphones,Electronics,,3.0,Upi
+1190,Tom,,Female,Kochi,Headphones,Electronics,,1.0,
+1191,Tom,Thirty,Female,Chennai,Headphones,Electronics,Not_Available,1.0,Bitcoin
+1192,Vikram,,F,Trivandrum,Tablet,Electronics,6731,1.0,
+1193,Neha,24,Male,Kozhikode,Phone,Electronics,,3.0,Upi
+1194,Vikram,Thirty,F,Bangalore,Camera,Electronics,,1.0,Bitcoin
+1195,John,Thirty,M,Bangalore,Laptop,Electronics,,3.0,
+1196,Kiran,Thirty,F,,Tablet,Electronics,,3.0,Credit Card
+1197,Neha,,F,Kochi,Laptop,Electronics,,4.0,Bitcoin
+1198,Anjali,Thirty,Male,Trivandrum,Phone,Electronics,57670,3.0,Upi
+1199,Tom,,Female,Kochi,Headphones,Electronics,37088,3.0,Cash
+1200,Vikram,,Female,,Phone,Electronics,,2.0,
+1201,Arjun,Thirty,Male,Kochi,Tablet,Electronics,Not_Available,3.0,Cash
+1202,Divya,,Female,Bangalore,Laptop,Electronics,45376,1.0,Upi
+1203,Divya,Thirty,Male,,Camera,Electronics,,3.0,Credit Card
+1204,Neha,,M,Kochi,Tablet,Electronics,,5.0,
+1205,Anu,Thirty,Female,Bangalore,Camera,Electronics,,3.0,Bitcoin
+1206,Anu,18,F,Kochi,Tablet,Electronics,,3.0,Cash
+1207,John,23,F,,Laptop,Electronics,46514,3.0,Bitcoin
+1208,Kiran,,Female,Trivandrum,Tablet,Electronics,,3.0,Bitcoin
+1209,Sam,43,F,Trivandrum,Phone,Electronics,,3.0,
+1210,Anu,32,F,,Laptop,Electronics,Not_Available,3.0,Cash
+1211,Anjali,,Male,Trivandrum,Laptop,Electronics,,3.0,Credit Card
+1212,Anu,Thirty,Male,Trivandrum,Phone,Electronics,57195,3.0,Cash
+1213,Kiran,42,F,Bangalore,Phone,Electronics,10149,4.0,Debit Card
+1214,Ravi,,Male,Bangalore,Camera,Electronics,,1.0,Cash
+1215,Aisha,Thirty,F,,Headphones,Electronics,,3.0,Bitcoin
+1216,Neha,,M,Bangalore,Phone,Electronics,,3.0,Cash
+1217,Megha,,Female,Kozhikode,Tablet,Electronics,,2.0,
+1218,Ravi,19,Female,Chennai,Camera,Electronics,59505,3.0,
+1219,Neha,,Male,Kozhikode,Tablet,Electronics,,4.0,Bitcoin
+1220,Rahul,Thirty,Male,Bangalore,Phone,Electronics,,3.0,Cash
+1221,Ravi,Thirty,Female,Chennai,Tablet,Electronics,,4.0,
+1222,Meera,Thirty,Female,Bangalore,Phone,Electronics,Not_Available,3.0,Credit Card
+1223,Tom,Thirty,F,,Tablet,Electronics,29067,1.0,Bitcoin
+1224,Anu,Thirty,Male,Kochi,Headphones,Electronics,5317,3.0,Debit Card
+1225,Anjali,Thirty,F,Trivandrum,Phone,Electronics,23032,2.0,Bitcoin
+1226,Anjali,Thirty,Female,Kochi,Camera,Electronics,,3.0,
+1227,Arjun,44,Male,Trivandrum,Tablet,Electronics,,3.0,
+1228,Vikram,Thirty,F,Kozhikode,Laptop,Electronics,Not_Available,3.0,
+1229,John,,Male,,Headphones,Electronics,Not_Available,3.0,Cash
+1230,John,22,F,,Headphones,Electronics,,2.0,Upi
+1231,Arjun,Thirty,F,Kozhikode,Tablet,Electronics,Not_Available,3.0,Upi
+1232,Neha,32,Male,Chennai,Phone,Electronics,59170,3.0,
+1233,Arjun,,Male,,Headphones,Electronics,,3.0,Credit Card
+1234,Divya,,F,Kochi,Tablet,Electronics,14790,3.0,
+1235,Kiran,,Female,Kozhikode,Phone,Electronics,Not_Available,3.0,Upi
+1236,Sam,42,Male,Kochi,Phone,Electronics,,4.0,Bitcoin
+1237,John,Thirty,M,Chennai,Tablet,Electronics,Not_Available,3.0,
+1238,Tom,,Male,Kochi,Laptop,Electronics,Not_Available,3.0,Cash
+1239,Kiran,Thirty,M,,Phone,Electronics,,3.0,Cash
+1240,Divya,,Female,Chennai,Phone,Electronics,,3.0,Upi
+1241,Rahul,,Female,Kozhikode,Headphones,Electronics,,1.0,Cash
+1242,Ravi,,M,Bangalore,Camera,Electronics,,3.0,Credit Card
+1243,Megha,30,Male,,Phone,Electronics,59669,1.0,Upi
+1244,Anu,,Male,Trivandrum,Headphones,Electronics,,3.0,
+1245,Neha,,Male,Chennai,Headphones,Electronics,,3.0,Credit Card
+1246,Arjun,Thirty,Female,Bangalore,Phone,Electronics,,3.0,Credit Card
+1247,Ravi,39,M,,Tablet,Electronics,,3.0,Credit Card
+1248,Meera,,Female,,Laptop,Electronics,31534,5.0,Cash
+1249,Ravi,43,F,Trivandrum,Laptop,Electronics,,2.0,Debit Card
+1250,Arjun,42,Female,Chennai,Phone,Electronics,,3.0,
+1251,John,Thirty,F,Trivandrum,Tablet,Electronics,7421,3.0,Upi
+1252,Anu,46,M,Chennai,Tablet,Electronics,Not_Available,3.0,Upi
+1253,Neha,,F,Chennai,Headphones,Electronics,,5.0,
+1254,Kiran,Thirty,Female,Kozhikode,Camera,Electronics,2283,3.0,Upi
+1255,Neha,41,Male,Trivandrum,Camera,Electronics,,3.0,Upi
+1256,Kiran,,Female,Chennai,Phone,Electronics,,5.0,Debit Card
+1257,Vikram,,F,Kochi,Laptop,Electronics,,3.0,Credit Card
+1258,Rahul,,Female,,Headphones,Electronics,Not_Available,3.0,Upi
+1259,Kiran,19,M,,Tablet,Electronics,,1.0,Debit Card
+1260,Rahul,,M,,Laptop,Electronics,8908,3.0,Upi
+1261,Tom,31,F,Bangalore,Tablet,Electronics,,3.0,Debit Card
+1262,Rahul,,F,Trivandrum,Laptop,Electronics,,3.0,
+1263,Rahul,Thirty,Female,Chennai,Camera,Electronics,,3.0,Credit Card
+1264,Arjun,32,Male,,Phone,Electronics,34649,4.0,Cash
+1265,Sam,,Female,,Phone,Electronics,9146,2.0,Debit Card
+1266,Tom,Thirty,Male,Kochi,Tablet,Electronics,45338,3.0,Cash
+1267,Tom,,Male,Chennai,Phone,Electronics,Not_Available,3.0,Bitcoin
+1268,Arjun,30,F,Bangalore,Phone,Electronics,Not_Available,3.0,Cash
+1269,Arjun,,F,Chennai,Camera,Electronics,Not_Available,3.0,Credit Card
+1270,Anu,18,Male,Bangalore,Tablet,Electronics,28897,3.0,Bitcoin
+1271,Aisha,,Female,Kozhikode,Tablet,Electronics,,1.0,Credit Card
+1272,Anjali,,F,Bangalore,Tablet,Electronics,,3.0,Bitcoin
+1273,Megha,,Female,,Tablet,Electronics,52578,2.0,Cash
+1274,Megha,,M,Kochi,Headphones,Electronics,,4.0,Credit Card
+1275,Sam,,Female,Trivandrum,Phone,Electronics,,3.0,Upi
+1276,Ravi,,M,Kochi,Headphones,Electronics,,3.0,Bitcoin
+1277,Anjali,,F,Trivandrum,Tablet,Electronics,35512,3.0,Debit Card
+1278,Arjun,Thirty,F,Trivandrum,Phone,Electronics,,3.0,
+1279,Aisha,Thirty,Male,Chennai,Tablet,Electronics,42941,3.0,Credit Card
+1280,Ravi,Thirty,Male,Trivandrum,Tablet,Electronics,,3.0,Credit Card
+1281,Aisha,36,Female,Bangalore,Headphones,Electronics,Not_Available,4.0,Debit Card
+1282,Rahul,,M,Bangalore,Tablet,Electronics,,2.0,Upi
+1283,Kiran,Thirty,Female,,Camera,Electronics,37906,3.0,Bitcoin
+1284,Aisha,,Female,,Laptop,Electronics,,5.0,Upi
+1285,Divya,,M,,Laptop,Electronics,Not_Available,3.0,Credit Card
+1286,Sam,Thirty,M,Kozhikode,Phone,Electronics,6803,4.0,Cash
+1287,Anu,,Female,,Laptop,Electronics,Not_Available,3.0,Credit Card
+1288,Megha,,Female,Kochi,Phone,Electronics,,5.0,Bitcoin
+1289,Neha,,Female,Kozhikode,Tablet,Electronics,,2.0,Cash
+1290,Rahul,31,Male,Chennai,Camera,Electronics,Not_Available,3.0,Upi
+1291,Arjun,43,F,,Camera,Electronics,,3.0,Upi
+1292,Vikram,Thirty,F,,Laptop,Electronics,,3.0,Bitcoin
+1293,Meera,18,Male,Kozhikode,Tablet,Electronics,Not_Available,3.0,Cash
+1294,Aisha,44,M,Trivandrum,Tablet,Electronics,,3.0,Bitcoin
+1295,Sam,,Female,Trivandrum,Laptop,Electronics,Not_Available,3.0,Credit Card
+1296,Sam,,F,Trivandrum,Phone,Electronics,,3.0,Debit Card
+1297,Anu,,M,Kozhikode,Phone,Electronics,,3.0,Credit Card
+1298,Meera,,Male,Trivandrum,Camera,Electronics,14988,4.0,Bitcoin
+1299,Sam,,Female,Kochi,Camera,Electronics,,3.0,Debit Card
+1300,Sam,,M,,Laptop,Electronics,Not_Available,5.0,
+1301,Ravi,,M,,Camera,Electronics,,3.0,
+1302,Kiran,,Male,Chennai,Camera,Electronics,Not_Available,3.0,
+1303,Rahul,,F,Trivandrum,Laptop,Electronics,34721,2.0,Credit Card
+1304,Divya,49,Female,Trivandrum,Tablet,Electronics,,1.0,Upi
+1305,Neha,Thirty,F,Kochi,Laptop,Electronics,Not_Available,3.0,Upi
+1306,Arjun,,Male,Bangalore,Phone,Electronics,,1.0,Debit Card
+1307,Anjali,Thirty,F,Bangalore,Camera,Electronics,,3.0,Credit Card
+1308,Anjali,,Female,Kochi,Headphones,Electronics,11876,1.0,Credit Card
+1309,John,Thirty,M,,Camera,Electronics,,3.0,
+1310,Meera,Thirty,Male,Kozhikode,Camera,Electronics,Not_Available,4.0,Debit Card
+1311,Neha,,Female,Chennai,Camera,Electronics,30921,3.0,Credit Card
+1312,Ravi,Thirty,Male,Kozhikode,Tablet,Electronics,35450,3.0,
+1313,Tom,,Male,Bangalore,Phone,Electronics,,3.0,Bitcoin
+1314,Anjali,,Female,Kozhikode,Phone,Electronics,Not_Available,3.0,Credit Card
+1315,Aisha,,Male,Kozhikode,Camera,Electronics,31508,3.0,Bitcoin
+1316,Meera,,M,Kozhikode,Tablet,Electronics,Not_Available,5.0,Bitcoin
+1317,Aisha,Thirty,Female,Kozhikode,Tablet,Electronics,53514,2.0,Bitcoin
+1318,Tom,,F,Trivandrum,Laptop,Electronics,,2.0,Credit Card
+1319,Rahul,Thirty,Male,Kozhikode,Camera,Electronics,,2.0,Bitcoin
+1320,Rahul,,Male,Bangalore,Camera,Electronics,,2.0,
+1321,Sam,Thirty,Male,Bangalore,Camera,Electronics,,3.0,Bitcoin
+1322,Tom,,F,Kozhikode,Headphones,Electronics,,3.0,Cash
+1323,Vikram,Thirty,Female,,Camera,Electronics,,2.0,Bitcoin
+1324,Anu,Thirty,F,Kozhikode,Tablet,Electronics,,5.0,Cash
+1325,Neha,35,Female,Kochi,Tablet,Electronics,Not_Available,3.0,
+1326,Aisha,Thirty,M,Chennai,Laptop,Electronics,,3.0,Upi
+1327,Arjun,,F,,Tablet,Electronics,,3.0,Bitcoin
+1328,John,,Male,Kochi,Camera,Electronics,Not_Available,3.0,Credit Card
+1329,Vikram,,F,Chennai,Tablet,Electronics,48509,1.0,Bitcoin
+1330,Arjun,,F,Kozhikode,Tablet,Electronics,Not_Available,3.0,Bitcoin
+1331,Arjun,Thirty,Male,Kozhikode,Phone,Electronics,,3.0,Upi
+1332,John,Thirty,Female,Chennai,Phone,Electronics,6153,3.0,
+1333,Rahul,,Female,Chennai,Tablet,Electronics,Not_Available,3.0,Bitcoin
+1334,Neha,,F,Kozhikode,Tablet,Electronics,Not_Available,3.0,Debit Card
+1335,Tom,38,F,Kochi,Tablet,Electronics,2611,3.0,Debit Card
+1336,Ravi,Thirty,Female,Kochi,Phone,Electronics,,2.0,Cash
+1337,Arjun,Thirty,Female,Chennai,Laptop,Electronics,45392,3.0,Credit Card
+1338,Divya,,Female,,Headphones,Electronics,,3.0,Bitcoin
+1339,Neha,,M,,Tablet,Electronics,52218,3.0,Upi
+1340,John,35,F,,Headphones,Electronics,,3.0,Bitcoin
+1341,Aisha,,Female,Kozhikode,Camera,Electronics,,3.0,Upi
+1342,Tom,,Male,Kozhikode,Headphones,Electronics,Not_Available,3.0,
+1343,Kiran,,Female,Trivandrum,Camera,Electronics,Not_Available,5.0,
+1344,Ravi,27,F,,Headphones,Electronics,Not_Available,4.0,Bitcoin
+1345,Neha,21,Male,Chennai,Camera,Electronics,,2.0,Upi
+1346,Anjali,,Female,Trivandrum,Tablet,Electronics,26386,3.0,Cash
+1347,John,,Female,Chennai,Laptop,Electronics,,3.0,Upi
+1348,Aisha,Thirty,Female,Kozhikode,Tablet,Electronics,Not_Available,3.0,Upi
+1349,Tom,Thirty,Female,Chennai,Phone,Electronics,,3.0,Bitcoin
+1350,Ravi,,F,,Phone,Electronics,,4.0,Cash
+1351,Ravi,33,M,Bangalore,Tablet,Electronics,48308,3.0,Bitcoin
+1352,Tom,,Female,Bangalore,Tablet,Electronics,,2.0,Debit Card
+1353,Anjali,41,M,,Laptop,Electronics,,3.0,Bitcoin
+1354,John,,M,Bangalore,Headphones,Electronics,,3.0,Debit Card
+1355,Ravi,21,M,Kochi,Laptop,Electronics,,1.0,
+1356,John,,M,Kochi,Headphones,Electronics,,3.0,Debit Card
+1357,John,,M,Kozhikode,Phone,Electronics,Not_Available,3.0,Bitcoin
+1358,Neha,,M,Trivandrum,Tablet,Electronics,20882,3.0,Bitcoin
+1359,Rahul,28,F,Kochi,Camera,Electronics,,3.0,Bitcoin
+1360,Arjun,,F,Trivandrum,Headphones,Electronics,,2.0,Debit Card
+1361,Aisha,,Female,Kochi,Tablet,Electronics,53727,3.0,
+1362,Arjun,,M,Bangalore,Tablet,Electronics,Not_Available,3.0,Credit Card
+1363,Anjali,,F,Trivandrum,Camera,Electronics,56744,3.0,Credit Card
+1364,Vikram,Thirty,M,Kozhikode,Camera,Electronics,,3.0,Credit Card
+1365,Neha,,Male,Chennai,Phone,Electronics,43838,3.0,Cash
+1366,Arjun,,Male,Chennai,Phone,Electronics,Not_Available,3.0,Upi
+1367,Meera,Thirty,Female,Kozhikode,Camera,Electronics,Not_Available,3.0,Bitcoin
+1368,Tom,,M,Chennai,Laptop,Electronics,,5.0,
+1369,Ravi,Thirty,Female,Kozhikode,Phone,Electronics,54322,3.0,Cash
+1370,Neha,24,M,Kozhikode,Headphones,Electronics,,3.0,Credit Card
+1371,John,,Female,,Phone,Electronics,,3.0,Cash
+1372,Ravi,47,M,Kochi,Camera,Electronics,12404,3.0,
+1373,Divya,46,M,Chennai,Camera,Electronics,,3.0,Cash
+1374,Meera,,Female,Chennai,Laptop,Electronics,Not_Available,3.0,
+1375,Sam,,F,Chennai,Headphones,Electronics,49782,2.0,Bitcoin
+1376,Vikram,,F,Chennai,Phone,Electronics,36210,3.0,Debit Card
+1377,Arjun,Thirty,Female,,Camera,Electronics,,3.0,Upi
+1378,Tom,33,Male,Trivandrum,Camera,Electronics,4764,3.0,Credit Card
+1379,Sam,,M,,Laptop,Electronics,,3.0,
+1380,Vikram,30,F,Kozhikode,Tablet,Electronics,Not_Available,3.0,Cash
+1381,John,,F,,Tablet,Electronics,,3.0,Bitcoin
+1382,Vikram,,M,,Tablet,Electronics,Not_Available,3.0,Debit Card
+1383,Meera,Thirty,Male,Trivandrum,Tablet,Electronics,Not_Available,3.0,Upi
+1384,Tom,18,F,Trivandrum,Headphones,Electronics,,3.0,Cash
+1385,Divya,,F,Bangalore,Camera,Electronics,,1.0,Cash
+1386,Neha,,Male,Chennai,Tablet,Electronics,Not_Available,3.0,Upi
+1387,Divya,,Female,Bangalore,Headphones,Electronics,Not_Available,3.0,Bitcoin
+1388,Ravi,Thirty,Male,Bangalore,Tablet,Electronics,Not_Available,2.0,
+1389,Sam,Thirty,M,Kochi,Phone,Electronics,Not_Available,5.0,Cash
+1390,Kiran,23,F,,Camera,Electronics,Not_Available,3.0,Credit Card
+1391,Sam,23,Male,Trivandrum,Laptop,Electronics,,5.0,Credit Card
+1392,Meera,36,M,Kochi,Phone,Electronics,,3.0,Cash
+1393,Megha,,Male,Kochi,Tablet,Electronics,48798,2.0,Credit Card
+1394,Anjali,Thirty,M,Bangalore,Phone,Electronics,,4.0,Upi
+1395,Arjun,Thirty,Female,Kozhikode,Phone,Electronics,47725,3.0,
+1396,Sam,27,Female,Chennai,Headphones,Electronics,,3.0,Bitcoin
+1397,Neha,Thirty,F,Kozhikode,Tablet,Electronics,17274,5.0,Upi
+1398,Anu,38,Male,Chennai,Camera,Electronics,,3.0,Bitcoin
+1399,Arjun,,Female,,Phone,Electronics,Not_Available,3.0,Debit Card
+1400,Rahul,,Female,Chennai,Headphones,Electronics,29934,2.0,Debit Card
+1401,Divya,48,Male,Bangalore,Laptop,Electronics,,5.0,Cash
+1402,Sam,,Male,Bangalore,Laptop,Electronics,,3.0,Debit Card
+1403,Aisha,,Male,Trivandrum,Tablet,Electronics,,3.0,
+1404,Tom,,F,Kozhikode,Headphones,Electronics,,3.0,Debit Card
+1405,Anjali,Thirty,F,Bangalore,Phone,Electronics,,3.0,Upi
+1406,John,41,F,Trivandrum,Tablet,Electronics,,3.0,Credit Card
+1407,Rahul,24,Male,Trivandrum,Laptop,Electronics,47191,3.0,Bitcoin
+1408,Arjun,21,Male,,Camera,Electronics,,1.0,Debit Card
+1409,John,Thirty,Male,Kozhikode,Laptop,Electronics,Not_Available,3.0,Upi
+1410,Kiran,Thirty,Female,Kozhikode,Headphones,Electronics,,1.0,Upi
+1411,Anu,40,Male,Trivandrum,Headphones,Electronics,Not_Available,3.0,Debit Card
+1412,Arjun,41,F,Bangalore,Headphones,Electronics,35169,3.0,Bitcoin
+1413,Neha,Thirty,Male,Kochi,Camera,Electronics,Not_Available,3.0,Cash
+1414,Megha,,F,Kochi,Camera,Electronics,Not_Available,3.0,Bitcoin
+1415,Kiran,,Female,,Tablet,Electronics,,3.0,Upi
+1416,Sam,,F,Bangalore,Tablet,Electronics,54309,1.0,
+1417,Aisha,,F,Kochi,Headphones,Electronics,Not_Available,3.0,Cash
+1418,Meera,,F,Trivandrum,Phone,Electronics,44143,3.0,Upi
+1419,Tom,,F,Bangalore,Headphones,Electronics,36844,5.0,Debit Card
+1420,Sam,,M,Kochi,Phone,Electronics,Not_Available,1.0,
+1421,Ravi,,Female,Chennai,Tablet,Electronics,,3.0,Upi
+1422,John,,F,Trivandrum,Tablet,Electronics,,3.0,Upi
+1423,Vikram,,Female,Kozhikode,Camera,Electronics,33449,3.0,Upi
+1424,Tom,Thirty,F,Chennai,Tablet,Electronics,8640,3.0,Cash
+1425,Divya,,Female,,Tablet,Electronics,,3.0,Bitcoin
+1426,Anu,49,Female,,Laptop,Electronics,Not_Available,3.0,
+1427,Arjun,,F,,Laptop,Electronics,25044,3.0,Bitcoin
+1428,Arjun,,M,Bangalore,Headphones,Electronics,,3.0,
+1429,Tom,33,F,Trivandrum,Laptop,Electronics,13561,4.0,Bitcoin
+1430,Anjali,Thirty,Female,Trivandrum,Phone,Electronics,Not_Available,3.0,Debit Card
+1431,Neha,Thirty,M,Bangalore,Phone,Electronics,21107,1.0,Upi
+1432,Megha,Thirty,F,Bangalore,Phone,Electronics,,3.0,Credit Card
+1433,Anjali,,Male,Kochi,Camera,Electronics,,3.0,Credit Card
+1434,Anu,,F,,Phone,Electronics,,3.0,Debit Card
+1435,Megha,Thirty,Male,,Camera,Electronics,,2.0,
+1436,Vikram,,M,Trivandrum,Headphones,Electronics,,3.0,Debit Card
+1437,Tom,Thirty,Male,Trivandrum,Camera,Electronics,52838,3.0,Bitcoin
+1438,Meera,,Female,Chennai,Camera,Electronics,,3.0,Debit Card
+1439,Meera,,Male,,Camera,Electronics,,3.0,Bitcoin
+1440,Anjali,,F,Trivandrum,Tablet,Electronics,,3.0,Bitcoin
+1441,John,Thirty,M,Chennai,Laptop,Electronics,,3.0,Upi
+1442,Anjali,,M,Kochi,Tablet,Electronics,,3.0,Credit Card
+1443,Anjali,49,F,Bangalore,Camera,Electronics,,3.0,Debit Card
+1444,Neha,,Female,,Camera,Electronics,,3.0,Bitcoin
+1445,Arjun,29,F,Trivandrum,Laptop,Electronics,,5.0,Upi
+1446,Megha,,Male,,Laptop,Electronics,Not_Available,3.0,Cash
+1447,Aisha,Thirty,Female,Chennai,Laptop,Electronics,8410,3.0,Cash
+1448,Neha,,Female,,Camera,Electronics,,4.0,Debit Card
+1449,Sam,,Male,,Headphones,Electronics,42708,3.0,Bitcoin
+1450,Vikram,18,M,Trivandrum,Camera,Electronics,,3.0,Cash
+1451,Rahul,,Male,Chennai,Headphones,Electronics,50008,3.0,Cash
+1452,Arjun,36,Male,Trivandrum,Laptop,Electronics,,3.0,Upi
+1453,Ravi,,F,Chennai,Laptop,Electronics,Not_Available,3.0,Upi
+1454,Meera,,Male,,Phone,Electronics,,2.0,Upi
+1455,Neha,,F,Kochi,Headphones,Electronics,49698,4.0,Upi
+1456,Kiran,,M,Bangalore,Laptop,Electronics,9398,3.0,Upi
+1457,Kiran,30,M,Kozhikode,Laptop,Electronics,54005,1.0,Cash
+1458,Anu,,F,Bangalore,Laptop,Electronics,,3.0,Cash
+1459,Vikram,35,Male,Kozhikode,Laptop,Electronics,Not_Available,3.0,Cash
+1460,Ravi,,Male,,Headphones,Electronics,Not_Available,3.0,Debit Card
+1461,Neha,,Male,Trivandrum,Laptop,Electronics,4458,1.0,Credit Card
+1462,Anu,Thirty,M,Trivandrum,Headphones,Electronics,,3.0,
+1463,Aisha,Thirty,Male,Kochi,Headphones,Electronics,Not_Available,3.0,Debit Card
+1464,Meera,,M,Chennai,Headphones,Electronics,,4.0,Upi
+1465,Sam,20,Male,Trivandrum,Phone,Electronics,Not_Available,3.0,Debit Card
+1466,Anjali,,F,Bangalore,Headphones,Electronics,,1.0,Upi
+1467,Sam,Thirty,Male,Bangalore,Laptop,Electronics,Not_Available,3.0,
+1468,Aisha,45,F,Trivandrum,Camera,Electronics,55865,3.0,Bitcoin
+1469,Tom,,Male,Bangalore,Phone,Electronics,Not_Available,3.0,Bitcoin
+1470,Aisha,,M,Kozhikode,Camera,Electronics,,3.0,Cash
+1471,Meera,20,Male,Kochi,Laptop,Electronics,13854,3.0,Bitcoin
+1472,Aisha,,Male,,Phone,Electronics,,3.0,Upi
+1473,Ravi,,Male,Kochi,Laptop,Electronics,,3.0,Bitcoin
+1474,Tom,Thirty,M,Kochi,Camera,Electronics,32813,3.0,Debit Card
+1475,Neha,Thirty,F,Bangalore,Camera,Electronics,,2.0,Upi
+1476,Aisha,26,M,Bangalore,Laptop,Electronics,39063,3.0,
+1477,Tom,,M,Trivandrum,Headphones,Electronics,Not_Available,5.0,
+1478,Aisha,,F,,Headphones,Electronics,15347,2.0,
+1479,Megha,,Female,,Camera,Electronics,,3.0,Upi
+1480,Aisha,,F,Chennai,Phone,Electronics,,4.0,Cash
+1481,Divya,23,F,Chennai,Camera,Electronics,29101,1.0,Cash
+1482,John,31,Male,Kozhikode,Laptop,Electronics,Not_Available,3.0,
+1483,Megha,40,M,,Camera,Electronics,16780,3.0,Cash
+1484,Vikram,,M,Kozhikode,Camera,Electronics,,1.0,Upi
+1485,Sam,,Female,Bangalore,Camera,Electronics,26137,4.0,Debit Card
+1486,Megha,25,Male,Chennai,Tablet,Electronics,,1.0,Upi
+1487,Anu,35,F,Kochi,Tablet,Electronics,5852,3.0,Credit Card
+1488,Arjun,,Female,Bangalore,Tablet,Electronics,,4.0,Debit Card
+1489,Meera,Thirty,Female,Kozhikode,Headphones,Electronics,Not_Available,3.0,Upi
+1490,Anjali,Thirty,Male,Bangalore,Headphones,Electronics,Not_Available,4.0,
+1491,Vikram,26,M,,Tablet,Electronics,Not_Available,3.0,Cash
+1492,Meera,30,F,Trivandrum,Laptop,Electronics,Not_Available,2.0,Cash
+1493,Neha,Thirty,M,Kozhikode,Tablet,Electronics,,3.0,Credit Card
+1494,Rahul,Thirty,Male,,Tablet,Electronics,,3.0,Bitcoin
+1495,Tom,Thirty,Male,Chennai,Headphones,Electronics,,3.0,Upi
+1496,Meera,Thirty,Male,Trivandrum,Headphones,Electronics,,3.0,Upi
+1497,Sam,,F,Trivandrum,Tablet,Electronics,35837,3.0,Bitcoin
+1498,Anu,,Male,Chennai,Tablet,Electronics,Not_Available,3.0,Credit Card
+1499,Neha,,Female,Bangalore,Tablet,Electronics,Not_Available,2.0,Cash
+1500,Megha,Thirty,M,Chennai,Phone,Electronics,Not_Available,5.0,Upi
+1501,Rahul,46,Female,Chennai,Camera,Electronics,59127,3.0,
+1502,Vikram,47,Male,Kochi,Tablet,Electronics,,4.0,Upi
+1503,Anjali,,Male,Bangalore,Camera,Electronics,,3.0,Bitcoin
+1504,Aisha,31,Female,Trivandrum,Camera,Electronics,,3.0,Debit Card
+1505,Arjun,,F,,Laptop,Electronics,,2.0,Upi
+1506,Tom,,Female,Chennai,Camera,Electronics,,1.0,
+1507,John,,Female,,Tablet,Electronics,24157,4.0,
+1508,Sam,,M,,Headphones,Electronics,32271,3.0,Bitcoin
+1509,John,43,M,Kozhikode,Headphones,Electronics,Not_Available,3.0,Debit Card
+1510,Neha,Thirty,Male,,Laptop,Electronics,Not_Available,3.0,Cash
+1511,Aisha,,Male,Kozhikode,Headphones,Electronics,Not_Available,3.0,Bitcoin
+1512,Aisha,35,Male,Chennai,Headphones,Electronics,,4.0,Debit Card
+1513,Tom,,Female,Kochi,Headphones,Electronics,Not_Available,3.0,
+1514,Anjali,Thirty,Male,Kozhikode,Laptop,Electronics,,3.0,
+1515,Kiran,,M,Chennai,Camera,Electronics,,3.0,
+1516,Tom,,Female,,Phone,Electronics,,3.0,Credit Card
+1517,Divya,34,M,,Tablet,Electronics,38076,3.0,
+1518,Anu,Thirty,Male,Bangalore,Headphones,Electronics,,3.0,Cash
+1519,Sam,,Male,Chennai,Tablet,Electronics,,3.0,
+1520,Aisha,,M,Kozhikode,Tablet,Electronics,,3.0,Credit Card
+1521,Anjali,,Male,Trivandrum,Camera,Electronics,,3.0,Credit Card
+1522,Vikram,,Female,,Phone,Electronics,,3.0,Credit Card
+1523,Ravi,,M,Bangalore,Laptop,Electronics,,3.0,Upi
+1524,Arjun,23,Female,,Headphones,Electronics,35645,4.0,Cash
+1525,Anu,,Male,Kochi,Headphones,Electronics,,2.0,Upi
+1526,Arjun,23,M,Kozhikode,Phone,Electronics,,3.0,Debit Card
+1527,Ravi,,M,Kochi,Tablet,Electronics,Not_Available,3.0,
+1528,John,,F,,Tablet,Electronics,Not_Available,1.0,Bitcoin
+1529,Rahul,,Female,Kozhikode,Tablet,Electronics,Not_Available,2.0,Upi
+1530,Anu,,Female,Kochi,Laptop,Electronics,20002,3.0,Debit Card
+1531,Vikram,35,Female,Kozhikode,Phone,Electronics,,4.0,Credit Card
+1532,Vikram,Thirty,Male,Trivandrum,Tablet,Electronics,Not_Available,2.0,Upi
+1533,Arjun,46,Female,Trivandrum,Camera,Electronics,Not_Available,3.0,
+1534,Meera,Thirty,Male,,Headphones,Electronics,Not_Available,3.0,Credit Card
+1535,Neha,,F,Chennai,Camera,Electronics,Not_Available,5.0,Bitcoin
+1536,Anu,,M,Bangalore,Laptop,Electronics,,3.0,Upi
+1537,Kiran,,Male,Kozhikode,Headphones,Electronics,,4.0,Debit Card
+1538,Kiran,Thirty,F,Kochi,Phone,Electronics,,3.0,Bitcoin
+1539,Meera,,Female,,Tablet,Electronics,16175,4.0,Debit Card
+1540,Divya,40,F,Kochi,Phone,Electronics,Not_Available,2.0,Upi
+1541,John,48,F,Kochi,Laptop,Electronics,12389,3.0,Upi
+1542,Ravi,28,Male,Kochi,Phone,Electronics,,1.0,Bitcoin
+1543,Tom,,F,Chennai,Headphones,Electronics,Not_Available,3.0,Cash
+1544,Divya,Thirty,Female,Kochi,Laptop,Electronics,15593,3.0,Debit Card
+1545,Kiran,Thirty,M,Kochi,Headphones,Electronics,,3.0,Debit Card
+1546,Meera,Thirty,Male,Kochi,Headphones,Electronics,Not_Available,1.0,Bitcoin
+1547,Rahul,,Female,Bangalore,Laptop,Electronics,13744,3.0,Debit Card
+1548,Anjali,,Male,Kozhikode,Phone,Electronics,,3.0,Credit Card
+1549,John,38,Female,Trivandrum,Tablet,Electronics,Not_Available,3.0,Credit Card
+1550,Anjali,41,Female,Kochi,Tablet,Electronics,,4.0,Debit Card
+1551,Megha,21,Male,,Tablet,Electronics,56972,3.0,Cash
+1552,Vikram,,Female,,Camera,Electronics,Not_Available,2.0,Upi
+1553,Vikram,21,Male,,Laptop,Electronics,54934,1.0,Upi
+1554,Vikram,,Female,Bangalore,Laptop,Electronics,50369,3.0,
+1555,John,,Male,,Laptop,Electronics,Not_Available,3.0,Bitcoin
+1556,Kiran,Thirty,Male,Kozhikode,Phone,Electronics,,5.0,Bitcoin
+1557,Tom,,F,Kozhikode,Laptop,Electronics,,3.0,Credit Card
+1558,Anjali,Thirty,M,Kochi,Camera,Electronics,,3.0,Bitcoin
+1559,Divya,43,Female,Trivandrum,Camera,Electronics,,5.0,Upi
+1560,Tom,30,Male,Chennai,Tablet,Electronics,28338,3.0,Credit Card
+1561,Anu,,M,,Camera,Electronics,,3.0,Credit Card
+1562,Meera,31,F,Bangalore,Laptop,Electronics,Not_Available,1.0,
+1563,Anjali,,F,Bangalore,Phone,Electronics,,3.0,Debit Card
+1564,Tom,,Female,Kochi,Laptop,Electronics,,3.0,Bitcoin
+1565,Meera,,M,,Headphones,Electronics,,3.0,Upi
+1566,Sam,Thirty,F,Bangalore,Phone,Electronics,29732,3.0,Bitcoin
+1567,Anjali,,M,Kozhikode,Headphones,Electronics,12664,3.0,
+1568,Rahul,,F,Chennai,Camera,Electronics,17666,4.0,Cash
+1569,Rahul,18,M,Kozhikode,Headphones,Electronics,,3.0,Bitcoin
+1570,Ravi,,Male,Chennai,Camera,Electronics,Not_Available,1.0,
+1571,Ravi,25,Male,Kozhikode,Headphones,Electronics,,3.0,Debit Card
+1572,Rahul,Thirty,Female,Kochi,Headphones,Electronics,,3.0,Upi
+1573,Divya,Thirty,Male,,Tablet,Electronics,Not_Available,5.0,
+1574,Neha,Thirty,F,Chennai,Headphones,Electronics,,4.0,Debit Card
+1575,Arjun,39,Female,Kochi,Camera,Electronics,,2.0,Upi
+1576,Anjali,39,F,Trivandrum,Camera,Electronics,,3.0,Upi
+1577,Rahul,Thirty,M,Kozhikode,Camera,Electronics,44015,3.0,Upi
+1578,Aisha,21,Female,Chennai,Camera,Electronics,Not_Available,3.0,
+1579,Rahul,,M,Chennai,Tablet,Electronics,,3.0,Cash
+1580,Aisha,,M,Chennai,Camera,Electronics,,4.0,Cash
+1581,Kiran,Thirty,F,Chennai,Headphones,Electronics,,5.0,Debit Card
+1582,Tom,,M,Trivandrum,Headphones,Electronics,,3.0,
+1583,Sam,,Female,Trivandrum,Camera,Electronics,,3.0,Cash
+1584,Vikram,Thirty,F,Bangalore,Laptop,Electronics,Not_Available,3.0,Credit Card
+1585,Vikram,Thirty,F,Bangalore,Tablet,Electronics,Not_Available,3.0,Upi
+1586,Aisha,,Male,Chennai,Phone,Electronics,Not_Available,3.0,Debit Card
+1587,Arjun,21,M,Kozhikode,Tablet,Electronics,Not_Available,2.0,Credit Card
+1588,Tom,Thirty,Female,Bangalore,Laptop,Electronics,11298,3.0,Credit Card
+1589,Sam,18,Female,Kozhikode,Camera,Electronics,Not_Available,3.0,Bitcoin
+1590,Anu,,Female,Kozhikode,Headphones,Electronics,Not_Available,3.0,Cash
+1591,Divya,Thirty,Female,Kozhikode,Camera,Electronics,Not_Available,3.0,Bitcoin
+1592,Vikram,Thirty,F,Kochi,Headphones,Electronics,26582,1.0,
+1593,Kiran,Thirty,Female,,Tablet,Electronics,,3.0,Credit Card
+1594,John,,Male,Kochi,Camera,Electronics,43883,4.0,Credit Card
+1595,Vikram,33,M,Chennai,Camera,Electronics,Not_Available,3.0,Cash
+1596,Arjun,,Male,,Tablet,Electronics,Not_Available,3.0,Upi
+1597,Megha,,M,Trivandrum,Tablet,Electronics,36679,3.0,Debit Card
+1598,Megha,,Male,Bangalore,Phone,Electronics,,3.0,Bitcoin
+1599,Neha,34,F,Kochi,Headphones,Electronics,21276,3.0,Cash
+1600,Vikram,Thirty,Male,Kochi,Laptop,Electronics,Not_Available,3.0,Cash
+1601,Sam,43,F,Kochi,Tablet,Electronics,19289,4.0,Cash
+1602,Aisha,Thirty,F,,Phone,Electronics,Not_Available,3.0,Cash
+1603,Kiran,Thirty,Female,Chennai,Camera,Electronics,Not_Available,3.0,Credit Card
+1604,Arjun,Thirty,Female,Kochi,Camera,Electronics,43666,4.0,Cash
+1605,Ravi,31,Female,Chennai,Camera,Electronics,,3.0,Upi
+1606,Divya,Thirty,Female,Kochi,Headphones,Electronics,,3.0,Bitcoin
+1607,Kiran,Thirty,Female,Bangalore,Laptop,Electronics,,3.0,Cash
+1608,Kiran,Thirty,Male,Kochi,Tablet,Electronics,30227,1.0,
+1609,Divya,,M,,Phone,Electronics,Not_Available,2.0,Upi
+1610,Arjun,Thirty,Female,,Tablet,Electronics,,3.0,
+1611,Sam,,Female,,Phone,Electronics,,3.0,Credit Card
+1612,Aisha,,M,Trivandrum,Laptop,Electronics,,3.0,Debit Card
+1613,Anu,33,Male,Chennai,Tablet,Electronics,Not_Available,3.0,Credit Card
+1614,Aisha,30,Male,Bangalore,Tablet,Electronics,21676,3.0,Debit Card
+1615,Tom,31,F,Chennai,Tablet,Electronics,,1.0,Credit Card
+1616,Ravi,39,Female,Kochi,Laptop,Electronics,,3.0,Upi
+1617,Tom,,M,Bangalore,Camera,Electronics,,3.0,Debit Card
+1618,John,Thirty,F,Kozhikode,Laptop,Electronics,,3.0,Bitcoin
+1619,Rahul,Thirty,Female,Kochi,Laptop,Electronics,,3.0,Upi
+1620,Anu,Thirty,F,,Tablet,Electronics,,3.0,
+1621,Megha,,M,,Laptop,Electronics,,3.0,Bitcoin
+1622,Rahul,,F,Trivandrum,Headphones,Electronics,,5.0,Credit Card
+1623,Sam,Thirty,M,Bangalore,Laptop,Electronics,Not_Available,2.0,
+1624,Kiran,Thirty,Female,,Headphones,Electronics,,3.0,Debit Card
+1625,Sam,,M,Kozhikode,Tablet,Electronics,Not_Available,3.0,Upi
+1626,Neha,,Male,,Phone,Electronics,Not_Available,3.0,Bitcoin
+1627,Aisha,39,Male,Chennai,Tablet,Electronics,,3.0,Credit Card
+1628,Sam,,F,Kochi,Tablet,Electronics,Not_Available,5.0,Credit Card
+1629,Neha,,Female,Chennai,Camera,Electronics,,3.0,Upi
+1630,Arjun,,Male,Bangalore,Camera,Electronics,,3.0,Credit Card
+1631,Neha,Thirty,M,Kochi,Laptop,Electronics,,3.0,Credit Card
+1632,Sam,,Male,,Tablet,Electronics,31855,3.0,Debit Card
+1633,Kiran,,Female,,Laptop,Electronics,,3.0,Bitcoin
+1634,Arjun,29,Female,Trivandrum,Camera,Electronics,Not_Available,5.0,Credit Card
+1635,Arjun,,M,Trivandrum,Phone,Electronics,Not_Available,3.0,Debit Card
+1636,Sam,Thirty,Male,Trivandrum,Tablet,Electronics,Not_Available,3.0,Bitcoin
+1637,John,,F,Trivandrum,Camera,Electronics,24963,1.0,Bitcoin
+1638,Vikram,Thirty,F,Kozhikode,Phone,Electronics,,3.0,Debit Card
+1639,Megha,,Male,Chennai,Tablet,Electronics,37621,3.0,Cash
+1640,Arjun,20,Female,Kozhikode,Headphones,Electronics,24696,3.0,Cash
+1641,Neha,,M,Trivandrum,Tablet,Electronics,,3.0,Cash
+1642,Kiran,Thirty,M,Kochi,Phone,Electronics,,3.0,Cash
+1643,Vikram,Thirty,Female,,Camera,Electronics,44270,3.0,Debit Card
+1644,Arjun,Thirty,Female,Chennai,Laptop,Electronics,,3.0,Upi
+1645,Ravi,,M,Bangalore,Tablet,Electronics,Not_Available,3.0,Cash
+1646,Megha,,M,Kochi,Tablet,Electronics,,3.0,Credit Card
+1647,Neha,,Female,Trivandrum,Phone,Electronics,,3.0,Cash
+1648,Arjun,Thirty,Male,Kochi,Headphones,Electronics,55658,2.0,Upi
+1649,Tom,,Female,Bangalore,Camera,Electronics,49202,1.0,
+1650,Ravi,41,M,Kochi,Phone,Electronics,Not_Available,5.0,
+1651,Tom,32,Male,Kozhikode,Laptop,Electronics,,3.0,Debit Card
+1652,Ravi,,F,Kochi,Tablet,Electronics,,3.0,Credit Card
+1653,Kiran,Thirty,Female,Chennai,Headphones,Electronics,Not_Available,3.0,
+1654,Sam,Thirty,F,Kochi,Camera,Electronics,,3.0,
+1655,Ravi,,Female,Kochi,Headphones,Electronics,6485,3.0,Credit Card
+1656,Anjali,22,Female,,Laptop,Electronics,Not_Available,2.0,
+1657,Ravi,,M,Kozhikode,Camera,Electronics,34653,5.0,Credit Card
+1658,Rahul,,M,Chennai,Camera,Electronics,57071,3.0,Cash
+1659,Neha,42,M,Chennai,Laptop,Electronics,Not_Available,3.0,Cash
+1660,Arjun,,Male,Chennai,Tablet,Electronics,,3.0,Debit Card
+1661,Meera,45,M,,Headphones,Electronics,,3.0,
+1662,Arjun,,F,Kozhikode,Phone,Electronics,,3.0,Upi
+1663,Neha,,F,Trivandrum,Phone,Electronics,,3.0,Credit Card
+1664,Ravi,46,F,,Tablet,Electronics,,3.0,Cash
+1665,Megha,Thirty,M,,Camera,Electronics,,4.0,Cash
+1666,Divya,Thirty,M,Kochi,Camera,Electronics,51095,3.0,Upi
+1667,John,,Male,Kozhikode,Headphones,Electronics,,4.0,Cash
+1668,Sam,,M,Trivandrum,Camera,Electronics,,3.0,Cash
+1669,Rahul,41,Male,Trivandrum,Headphones,Electronics,,3.0,Debit Card
+1670,Rahul,20,F,Chennai,Phone,Electronics,Not_Available,3.0,Credit Card
+1671,Anu,30,M,Kochi,Headphones,Electronics,,3.0,Bitcoin
+1672,Sam,Thirty,M,Kochi,Tablet,Electronics,Not_Available,3.0,Upi
+1673,Neha,,F,Kochi,Camera,Electronics,19036,1.0,Debit Card
+1674,Kiran,30,M,,Camera,Electronics,Not_Available,3.0,Debit Card
+1675,Tom,Thirty,F,Trivandrum,Phone,Electronics,,3.0,Upi
+1676,Tom,Thirty,Female,Bangalore,Phone,Electronics,,3.0,Credit Card
+1677,Arjun,Thirty,M,Chennai,Camera,Electronics,31526,3.0,Cash
+1678,Aisha,,Male,Bangalore,Headphones,Electronics,Not_Available,3.0,
+1679,Arjun,33,F,Kochi,Laptop,Electronics,Not_Available,3.0,Bitcoin
+1680,Rahul,,Male,,Phone,Electronics,Not_Available,5.0,Debit Card
+1681,Neha,19,F,Kochi,Camera,Electronics,,3.0,Upi
+1682,Meera,,Female,Bangalore,Tablet,Electronics,,3.0,Upi
+1683,John,,M,Trivandrum,Headphones,Electronics,,4.0,Debit Card
+1684,Arjun,,F,Kozhikode,Laptop,Electronics,,3.0,Bitcoin
+1685,Megha,,F,Bangalore,Headphones,Electronics,Not_Available,3.0,
+1686,Sam,29,F,Trivandrum,Headphones,Electronics,38417,3.0,Cash
+1687,Meera,,Female,Kochi,Phone,Electronics,,3.0,
+1688,John,,Female,Kochi,Tablet,Electronics,,3.0,Upi
+1689,Megha,Thirty,F,Chennai,Headphones,Electronics,,3.0,Upi
+1690,Rahul,,F,Kochi,Camera,Electronics,Not_Available,2.0,Debit Card
+1691,Sam,,M,Bangalore,Headphones,Electronics,Not_Available,5.0,Upi
+1692,Kiran,Thirty,Male,Chennai,Laptop,Electronics,11398,3.0,Upi
+1693,Anjali,,Female,Trivandrum,Headphones,Electronics,,3.0,Credit Card
+1694,John,Thirty,F,Kochi,Headphones,Electronics,,3.0,Upi
+1695,Anu,,Female,,Headphones,Electronics,Not_Available,3.0,Credit Card
+1696,Anjali,,Male,,Phone,Electronics,Not_Available,3.0,Credit Card
+1697,Aisha,,M,,Laptop,Electronics,,3.0,Upi
+1698,Arjun,,F,Kochi,Tablet,Electronics,,3.0,Credit Card
+1699,Kiran,Thirty,Female,Kochi,Headphones,Electronics,,3.0,Cash
+1700,Neha,,Male,Kozhikode,Headphones,Electronics,,5.0,Upi
+1701,Tom,Thirty,Female,Trivandrum,Headphones,Electronics,59376,2.0,Upi
+1702,Anjali,25,F,Trivandrum,Headphones,Electronics,4586,3.0,Cash
+1703,Megha,,F,,Tablet,Electronics,14955,3.0,Credit Card
+1704,Anu,37,M,Kochi,Tablet,Electronics,Not_Available,3.0,Cash
+1705,Megha,,Male,Chennai,Headphones,Electronics,,3.0,Bitcoin
+1706,Tom,44,M,Trivandrum,Tablet,Electronics,,3.0,Debit Card
+1707,Arjun,,M,Chennai,Headphones,Electronics,Not_Available,4.0,Cash
+1708,Tom,,Female,Bangalore,Headphones,Electronics,,1.0,Upi
+1709,Vikram,49,Male,Trivandrum,Headphones,Electronics,43386,3.0,Upi
+1710,Vikram,,M,Trivandrum,Tablet,Electronics,Not_Available,5.0,Cash
+1711,Anjali,,M,Kozhikode,Tablet,Electronics,,3.0,Bitcoin
+1712,Aisha,,M,Kochi,Headphones,Electronics,Not_Available,3.0,Cash
+1713,John,49,M,Trivandrum,Headphones,Electronics,,3.0,Upi
+1714,Aisha,Thirty,Male,Kochi,Tablet,Electronics,,2.0,Cash
+1715,Sam,22,Male,Chennai,Laptop,Electronics,,3.0,Cash
+1716,Anjali,,M,Trivandrum,Phone,Electronics,39710,4.0,Debit Card
+1717,Meera,Thirty,F,Trivandrum,Tablet,Electronics,,3.0,Credit Card
+1718,Ravi,29,Male,Trivandrum,Headphones,Electronics,,3.0,Bitcoin
+1719,Kiran,Thirty,M,Kochi,Camera,Electronics,32847,3.0,Debit Card
+1720,Kiran,,Female,Kozhikode,Laptop,Electronics,Not_Available,3.0,Upi
+1721,Arjun,,Male,,Tablet,Electronics,,3.0,
+1722,Aisha,,M,Chennai,Laptop,Electronics,,3.0,
+1723,Divya,45,M,Kozhikode,Tablet,Electronics,,5.0,
+1724,Divya,,Male,Bangalore,Phone,Electronics,,3.0,Bitcoin
+1725,Vikram,41,M,,Tablet,Electronics,40664,4.0,Bitcoin
+1726,Neha,,F,Bangalore,Camera,Electronics,,3.0,Upi
+1727,Megha,,M,Kochi,Phone,Electronics,35785,3.0,Debit Card
+1728,Rahul,,M,Kochi,Laptop,Electronics,,3.0,Debit Card
+1729,Meera,,F,Chennai,Tablet,Electronics,,3.0,Cash
+1730,Tom,,Female,,Tablet,Electronics,,3.0,
+1731,Megha,,F,Trivandrum,Camera,Electronics,Not_Available,3.0,
+1732,Rahul,Thirty,Female,Kochi,Camera,Electronics,Not_Available,3.0,Cash
+1733,Vikram,44,Female,Kochi,Phone,Electronics,,3.0,Bitcoin
+1734,John,47,M,Trivandrum,Tablet,Electronics,,5.0,Upi
+1735,Megha,,Male,,Headphones,Electronics,23362,5.0,Bitcoin
+1736,Vikram,,M,Bangalore,Tablet,Electronics,6736,3.0,Credit Card
+1737,Vikram,,F,Kochi,Headphones,Electronics,Not_Available,3.0,Bitcoin
+1738,Anjali,,M,Kozhikode,Headphones,Electronics,50602,3.0,Debit Card
+1739,Kiran,Thirty,Female,Bangalore,Headphones,Electronics,,3.0,Debit Card
+1740,Kiran,28,Male,Chennai,Phone,Electronics,Not_Available,3.0,Bitcoin
+1741,Sam,35,Male,,Headphones,Electronics,,3.0,Debit Card
+1742,Arjun,Thirty,Male,Chennai,Laptop,Electronics,,3.0,Bitcoin
+1743,Ravi,Thirty,F,,Camera,Electronics,,3.0,Upi
+1744,Megha,Thirty,Male,Trivandrum,Laptop,Electronics,Not_Available,3.0,Upi
+1745,Megha,Thirty,M,,Headphones,Electronics,,1.0,Cash
+1746,Sam,21,F,Chennai,Phone,Electronics,29283,3.0,Upi
+1747,Arjun,,Female,,Laptop,Electronics,,4.0,
+1748,Sam,45,M,Kozhikode,Camera,Electronics,,3.0,Debit Card
+1749,Neha,,Female,Kozhikode,Camera,Electronics,,3.0,Cash
+1750,Vikram,36,Male,Trivandrum,Laptop,Electronics,,1.0,
+1751,Sam,,F,,Camera,Electronics,,3.0,Cash
+1752,John,,Female,Kozhikode,Camera,Electronics,,4.0,Credit Card
+1753,Megha,24,Female,Trivandrum,Camera,Electronics,Not_Available,3.0,Bitcoin
+1754,John,Thirty,Male,Kozhikode,Laptop,Electronics,,3.0,Debit Card
+1755,Rahul,Thirty,Female,Kozhikode,Phone,Electronics,,3.0,Bitcoin
+1756,Sam,,F,Kochi,Tablet,Electronics,10365,3.0,Credit Card
+1757,Megha,28,M,Bangalore,Phone,Electronics,Not_Available,3.0,Debit Card
+1758,Vikram,Thirty,Female,Kochi,Phone,Electronics,10058,3.0,Credit Card
+1759,Anjali,,Female,Bangalore,Phone,Electronics,,3.0,Upi
+1760,Divya,Thirty,Male,Kozhikode,Tablet,Electronics,,3.0,
+1761,Kiran,Thirty,M,Bangalore,Headphones,Electronics,Not_Available,3.0,Debit Card
+1762,Kiran,,Male,Trivandrum,Phone,Electronics,,3.0,Debit Card
+1763,Rahul,,M,Kozhikode,Tablet,Electronics,Not_Available,3.0,
+1764,Ravi,,Female,,Camera,Electronics,,3.0,Debit Card
+1765,Megha,42,F,Kozhikode,Tablet,Electronics,41434,3.0,Cash
+1766,Ravi,50,F,Kozhikode,Tablet,Electronics,Not_Available,3.0,Debit Card
+1767,Sam,47,M,,Camera,Electronics,,3.0,Upi
+1768,Tom,20,Female,,Camera,Electronics,29071,3.0,
+1769,Meera,,Male,Trivandrum,Phone,Electronics,31546,3.0,Upi
+1770,Kiran,,F,Chennai,Tablet,Electronics,,3.0,Bitcoin
+1771,Anu,,F,Chennai,Tablet,Electronics,Not_Available,3.0,Bitcoin
+1772,Anjali,Thirty,Male,,Headphones,Electronics,Not_Available,3.0,Debit Card
+1773,Meera,Thirty,M,Kozhikode,Headphones,Electronics,,3.0,Bitcoin
+1774,Megha,,M,Trivandrum,Headphones,Electronics,,3.0,Debit Card
+1775,Megha,,Male,Chennai,Phone,Electronics,,3.0,Bitcoin
+1776,Megha,,Male,Bangalore,Tablet,Electronics,Not_Available,3.0,Bitcoin
+1777,Meera,,Male,,Camera,Electronics,2944,3.0,
+1778,Kiran,,Male,,Laptop,Electronics,50768,3.0,Debit Card
+1779,Aisha,Thirty,M,Bangalore,Phone,Electronics,,3.0,
+1780,Aisha,,Female,Bangalore,Phone,Electronics,41249,1.0,
+1781,Megha,29,F,Kozhikode,Camera,Electronics,,3.0,Cash
+1782,Ravi,Thirty,F,Kochi,Camera,Electronics,,1.0,
+1783,Rahul,,M,Kochi,Camera,Electronics,,3.0,
+1784,Sam,Thirty,Male,Kochi,Tablet,Electronics,,2.0,
+1785,Divya,,Male,Trivandrum,Laptop,Electronics,,3.0,Credit Card
+1786,Arjun,,Female,Chennai,Camera,Electronics,,3.0,Credit Card
+1787,Tom,,M,Kozhikode,Tablet,Electronics,Not_Available,3.0,
+1788,Neha,33,Female,Trivandrum,Camera,Electronics,,5.0,Debit Card
+1789,Anjali,Thirty,M,,Tablet,Electronics,Not_Available,3.0,Credit Card
+1790,Anjali,Thirty,M,Chennai,Headphones,Electronics,Not_Available,3.0,
+1791,Arjun,,Male,Kochi,Camera,Electronics,56176,5.0,Credit Card
+1792,Anjali,,Female,Trivandrum,Headphones,Electronics,,3.0,Credit Card
+1793,Kiran,,F,Kochi,Phone,Electronics,,4.0,Bitcoin
+1794,Kiran,33,F,Bangalore,Tablet,Electronics,,3.0,Credit Card
+1795,Ravi,Thirty,Male,,Phone,Electronics,,3.0,Upi
+1796,John,,Male,Kozhikode,Laptop,Electronics,,3.0,
+1797,Meera,Thirty,Male,,Laptop,Electronics,30277,2.0,Bitcoin
+1798,Rahul,32,F,Kochi,Headphones,Electronics,,4.0,Cash
+1799,Neha,,Female,,Phone,Electronics,,3.0,Credit Card
+1800,Tom,Thirty,F,,Phone,Electronics,Not_Available,3.0,Cash
+1801,Divya,Thirty,Female,Trivandrum,Phone,Electronics,1482,3.0,Cash
+1802,Rahul,24,Male,Kochi,Headphones,Electronics,Not_Available,3.0,
+1803,Ravi,,F,Bangalore,Headphones,Electronics,,1.0,Credit Card
+1804,Sam,31,F,Kochi,Tablet,Electronics,Not_Available,3.0,Upi
+1805,Vikram,,Male,Bangalore,Phone,Electronics,Not_Available,3.0,Credit Card
+1806,Kiran,,Female,Kozhikode,Tablet,Electronics,44798,3.0,Credit Card
+1807,Ravi,31,Male,Chennai,Tablet,Electronics,Not_Available,2.0,Debit Card
+1808,Anu,Thirty,F,Kochi,Camera,Electronics,Not_Available,4.0,Upi
+1809,Anu,,Female,Kochi,Headphones,Electronics,Not_Available,1.0,Bitcoin
+1810,Rahul,,Male,,Phone,Electronics,,3.0,Cash
+1811,Kiran,,Female,Bangalore,Headphones,Electronics,52624,3.0,Upi
+1812,Arjun,40,F,Kozhikode,Tablet,Electronics,,2.0,Credit Card
+1813,Ravi,Thirty,F,Chennai,Tablet,Electronics,,3.0,Credit Card
+1814,Anjali,23,F,Kochi,Phone,Electronics,,3.0,
+1815,Anjali,,M,Kozhikode,Phone,Electronics,59906,3.0,
+1816,Vikram,49,F,Chennai,Tablet,Electronics,6585,3.0,Debit Card
+1817,Tom,,F,,Headphones,Electronics,,3.0,Credit Card
+1818,Anu,,Female,Kozhikode,Camera,Electronics,29863,3.0,Cash
+1819,Vikram,,F,,Tablet,Electronics,,3.0,Cash
+1820,Vikram,42,M,Trivandrum,Camera,Electronics,6888,1.0,Debit Card
+1821,Meera,Thirty,Male,Kozhikode,Phone,Electronics,Not_Available,1.0,Debit Card
+1822,Kiran,,M,Trivandrum,Laptop,Electronics,,4.0,Bitcoin
+1823,Anu,Thirty,Male,Kozhikode,Phone,Electronics,Not_Available,3.0,Bitcoin
+1824,Rahul,37,F,Kozhikode,Camera,Electronics,,3.0,Upi
+1825,Tom,,F,,Phone,Electronics,,3.0,Bitcoin
+1826,Meera,30,Female,Trivandrum,Tablet,Electronics,Not_Available,3.0,Bitcoin
+1827,Anu,,Female,Kozhikode,Camera,Electronics,,3.0,Bitcoin
+1828,Vikram,46,F,Bangalore,Camera,Electronics,,3.0,Credit Card
+1829,Ravi,,F,Trivandrum,Phone,Electronics,,3.0,Bitcoin
+1830,Ravi,,Female,Kochi,Camera,Electronics,Not_Available,4.0,Credit Card
+1831,John,,Male,,Laptop,Electronics,54859,3.0,Bitcoin
+1832,Neha,,M,Trivandrum,Headphones,Electronics,5569,1.0,
+1833,Tom,,F,Trivandrum,Tablet,Electronics,,3.0,Upi
+1834,Meera,47,Female,Trivandrum,Phone,Electronics,,4.0,
+1835,Tom,,M,Chennai,Phone,Electronics,57701,1.0,Cash
+1836,Megha,,F,Bangalore,Laptop,Electronics,36041,3.0,Upi
+1837,Anjali,45,F,Kozhikode,Phone,Electronics,,5.0,Upi
+1838,Meera,Thirty,F,,Tablet,Electronics,Not_Available,3.0,Upi
+1839,Kiran,Thirty,M,Bangalore,Phone,Electronics,16332,4.0,Debit Card
+1840,Rahul,Thirty,Male,Bangalore,Phone,Electronics,52955,3.0,Debit Card
+1841,John,20,Female,Kozhikode,Laptop,Electronics,,3.0,Cash
+1842,Kiran,37,F,Bangalore,Camera,Electronics,,2.0,Upi
+1843,Ravi,,Female,Trivandrum,Camera,Electronics,,5.0,
+1844,Arjun,,F,Bangalore,Camera,Electronics,,3.0,Cash
+1845,Aisha,,F,,Tablet,Electronics,47847,3.0,
+1846,Anu,,F,Kozhikode,Phone,Electronics,Not_Available,3.0,Upi
+1847,Megha,49,M,Kozhikode,Tablet,Electronics,,3.0,Debit Card
+1848,John,Thirty,F,Kozhikode,Headphones,Electronics,,2.0,Bitcoin
+1849,Meera,,Male,,Laptop,Electronics,,3.0,
+1850,Sam,,F,Bangalore,Headphones,Electronics,Not_Available,3.0,Bitcoin
+1851,Tom,38,F,Chennai,Laptop,Electronics,,1.0,Bitcoin
+1852,Rahul,,Male,Bangalore,Camera,Electronics,1292,4.0,Upi
+1853,Tom,,F,,Phone,Electronics,42035,3.0,Credit Card
+1854,Anu,,Female,Kozhikode,Headphones,Electronics,6680,3.0,
+1855,Kiran,35,Male,Trivandrum,Laptop,Electronics,Not_Available,1.0,Bitcoin
+1856,John,,Male,Kochi,Camera,Electronics,,3.0,
+1857,Arjun,Thirty,Female,Kochi,Phone,Electronics,46984,2.0,Upi
+1858,Vikram,26,M,Bangalore,Tablet,Electronics,,3.0,Credit Card
+1859,Sam,,Female,Kozhikode,Laptop,Electronics,,3.0,Cash
+1860,Meera,Thirty,M,Kozhikode,Phone,Electronics,,3.0,Credit Card
+1861,John,,Male,Bangalore,Tablet,Electronics,,3.0,Bitcoin
+1862,Neha,31,Female,Chennai,Phone,Electronics,,3.0,Credit Card
+1863,Neha,Thirty,M,,Camera,Electronics,,3.0,
+1864,Neha,47,Male,Trivandrum,Phone,Electronics,19677,3.0,Credit Card
+1865,Ravi,,Male,Chennai,Camera,Electronics,,3.0,
+1866,Rahul,Thirty,M,Trivandrum,Phone,Electronics,,3.0,Bitcoin
+1867,Arjun,26,Male,Chennai,Phone,Electronics,17142,5.0,
+1868,Arjun,Thirty,F,Chennai,Headphones,Electronics,,3.0,Debit Card
+1869,Neha,,M,Chennai,Camera,Electronics,3137,5.0,Debit Card
+1870,Megha,46,Male,Trivandrum,Headphones,Electronics,,3.0,
+1871,Anu,Thirty,M,Bangalore,Headphones,Electronics,9145,3.0,
+1872,Anjali,,Female,,Laptop,Electronics,6810,3.0,
+1873,Anjali,Thirty,F,,Camera,Electronics,,3.0,Bitcoin
+1874,Meera,42,Male,Kozhikode,Headphones,Electronics,Not_Available,3.0,Credit Card
+1875,Rahul,32,F,Kochi,Camera,Electronics,,3.0,Debit Card
+1876,Divya,,M,Trivandrum,Headphones,Electronics,,3.0,Cash
+1877,Ravi,Thirty,F,Chennai,Tablet,Electronics,Not_Available,3.0,Debit Card
+1878,Kiran,,Male,,Headphones,Electronics,,3.0,
+1879,Divya,,Female,,Phone,Electronics,,3.0,
+1880,Ravi,48,M,Chennai,Headphones,Electronics,3627,3.0,Bitcoin
+1881,Sam,Thirty,Female,Bangalore,Tablet,Electronics,55386,3.0,
+1882,Sam,,Male,Kochi,Tablet,Electronics,,3.0,Bitcoin
+1883,Sam,,F,,Camera,Electronics,,3.0,Credit Card
+1884,Anjali,34,Female,Trivandrum,Laptop,Electronics,,3.0,Credit Card
+1885,Vikram,Thirty,F,Chennai,Laptop,Electronics,Not_Available,3.0,Bitcoin
+1886,Megha,Thirty,Male,Kochi,Phone,Electronics,Not_Available,3.0,Bitcoin
+1887,Rahul,Thirty,Female,,Laptop,Electronics,Not_Available,3.0,Upi
+1888,Anu,,M,,Headphones,Electronics,,3.0,Debit Card
+1889,Arjun,,Female,Chennai,Tablet,Electronics,Not_Available,3.0,Cash
+1890,Neha,Thirty,M,Trivandrum,Camera,Electronics,44587,3.0,Credit Card
+1891,Divya,Thirty,M,,Laptop,Electronics,Not_Available,3.0,Cash
+1892,John,,Male,Kochi,Phone,Electronics,,3.0,
+1893,Sam,Thirty,M,Bangalore,Phone,Electronics,,3.0,Upi
+1894,Ravi,34,Male,Chennai,Tablet,Electronics,,3.0,Debit Card
+1895,Ravi,,M,Chennai,Camera,Electronics,Not_Available,3.0,
+1896,Rahul,,Female,Bangalore,Headphones,Electronics,,3.0,
+1897,Anu,,M,Trivandrum,Camera,Electronics,34285,3.0,Credit Card
+1898,John,22,F,Bangalore,Phone,Electronics,53929,3.0,Bitcoin
+1899,Sam,,Male,Trivandrum,Camera,Electronics,,4.0,Credit Card
+1900,Anjali,Thirty,Male,Trivandrum,Camera,Electronics,,3.0,Bitcoin
+1901,Meera,,Male,Bangalore,Phone,Electronics,,4.0,
+1902,Tom,Thirty,Male,Kochi,Phone,Electronics,5082,3.0,Bitcoin
+1903,Aisha,20,Female,Trivandrum,Laptop,Electronics,,3.0,Cash
+1904,Sam,Thirty,F,Bangalore,Tablet,Electronics,42728,2.0,Credit Card
+1905,Aisha,40,F,,Tablet,Electronics,3209,3.0,Debit Card
+1906,Anu,34,Male,Chennai,Laptop,Electronics,9399,3.0,Bitcoin
+1907,Kiran,Thirty,F,Trivandrum,Headphones,Electronics,,3.0,Upi
+1908,Tom,,Female,,Laptop,Electronics,Not_Available,4.0,Cash
+1909,Anjali,Thirty,F,Trivandrum,Tablet,Electronics,Not_Available,3.0,Credit Card
+1910,Anu,,F,Bangalore,Headphones,Electronics,Not_Available,3.0,Bitcoin
+1911,Aisha,Thirty,Male,Bangalore,Laptop,Electronics,,3.0,Cash
+1912,Ravi,,F,Trivandrum,Headphones,Electronics,,3.0,Upi
+1913,Kiran,,F,Kochi,Phone,Electronics,,3.0,Bitcoin
+1914,Divya,,Female,Chennai,Phone,Electronics,Not_Available,3.0,Cash
+1915,Rahul,27,M,Chennai,Camera,Electronics,,3.0,Credit Card
+1916,Vikram,,Female,Chennai,Laptop,Electronics,Not_Available,3.0,Credit Card
+1917,Aisha,,M,Kochi,Camera,Electronics,,3.0,Upi
+1918,Vikram,,M,Kochi,Phone,Electronics,,3.0,Debit Card
+1919,Ravi,Thirty,M,Bangalore,Laptop,Electronics,15778,3.0,Upi
+1920,Meera,26,M,,Headphones,Electronics,Not_Available,3.0,Bitcoin
+1921,Neha,25,M,,Laptop,Electronics,,3.0,Credit Card
+1922,Kiran,,M,Trivandrum,Camera,Electronics,,3.0,Bitcoin
+1923,John,,Female,Bangalore,Phone,Electronics,,3.0,Cash
+1924,Anu,Thirty,Male,Trivandrum,Phone,Electronics,,3.0,Cash
+1925,Kiran,34,M,Chennai,Headphones,Electronics,Not_Available,3.0,Upi
+1926,Meera,Thirty,M,Kochi,Tablet,Electronics,17370,3.0,Debit Card
+1927,Ravi,,M,Kozhikode,Phone,Electronics,,3.0,Credit Card
+1928,Meera,Thirty,M,Bangalore,Camera,Electronics,Not_Available,4.0,Bitcoin
+1929,Meera,Thirty,F,Bangalore,Phone,Electronics,,3.0,Credit Card
+1930,Sam,Thirty,Male,,Camera,Electronics,,3.0,Credit Card
+1931,Aisha,Thirty,F,Bangalore,Headphones,Electronics,7196,2.0,Bitcoin
+1932,Anjali,41,Male,Chennai,Headphones,Electronics,56546,5.0,Cash
+1933,Rahul,,Male,Chennai,Camera,Electronics,,3.0,Bitcoin
+1934,Aisha,Thirty,F,,Headphones,Electronics,,3.0,
+1935,Arjun,Thirty,Male,,Headphones,Electronics,,4.0,Cash
+1936,John,,M,,Tablet,Electronics,17882,3.0,Debit Card
+1937,Megha,,Female,,Phone,Electronics,,1.0,Debit Card
+1938,Ravi,,F,,Phone,Electronics,47057,3.0,Cash
+1939,Aisha,,Male,Bangalore,Camera,Electronics,,3.0,Credit Card
+1940,Rahul,Thirty,F,Kozhikode,Headphones,Electronics,38716,3.0,Upi
+1941,Divya,Thirty,F,,Tablet,Electronics,,3.0,Credit Card
+1942,Rahul,Thirty,F,Kochi,Headphones,Electronics,56402,3.0,Bitcoin
+1943,Aisha,,F,Bangalore,Camera,Electronics,,3.0,Upi
+1944,Anjali,,M,,Headphones,Electronics,,1.0,Bitcoin
+1945,Divya,,M,,Laptop,Electronics,Not_Available,3.0,Cash
+1946,Aisha,37,Female,Chennai,Camera,Electronics,,3.0,
+1947,Anjali,,F,Chennai,Headphones,Electronics,,3.0,Upi
+1948,Meera,,Female,,Phone,Electronics,9273,3.0,Cash
+1949,Kiran,Thirty,Male,Kochi,Headphones,Electronics,22051,3.0,
+1950,Neha,Thirty,Male,Chennai,Phone,Electronics,,3.0,Bitcoin
+1951,Tom,,F,Kozhikode,Phone,Electronics,,1.0,Debit Card
+1952,John,,M,Kozhikode,Camera,Electronics,,4.0,Upi
+1953,Vikram,46,Male,,Tablet,Electronics,Not_Available,3.0,Upi
+1954,Kiran,Thirty,F,Kozhikode,Headphones,Electronics,,3.0,Credit Card
+1955,Divya,,Male,,Headphones,Electronics,Not_Available,4.0,Bitcoin
+1956,Meera,Thirty,Male,,Camera,Electronics,,3.0,Credit Card
+1957,Aisha,36,M,Kozhikode,Headphones,Electronics,Not_Available,3.0,Debit Card
+1958,Divya,Thirty,F,Bangalore,Camera,Electronics,44113,1.0,Upi
+1959,Arjun,50,M,Trivandrum,Phone,Electronics,,1.0,Bitcoin
+1960,Divya,41,M,Kozhikode,Tablet,Electronics,,1.0,Bitcoin
+1961,Divya,Thirty,M,Kozhikode,Laptop,Electronics,Not_Available,5.0,Credit Card
+1962,Megha,,F,,Phone,Electronics,,3.0,Cash
+1963,Kiran,,M,Kochi,Phone,Electronics,44674,3.0,Upi
+1964,Neha,,Male,,Laptop,Electronics,Not_Available,2.0,
+1965,Vikram,Thirty,M,,Phone,Electronics,Not_Available,4.0,
+1966,Vikram,,F,Kozhikode,Tablet,Electronics,Not_Available,4.0,Credit Card
+1967,Anjali,,M,Bangalore,Phone,Electronics,,4.0,Cash
+1968,Tom,,F,Kozhikode,Camera,Electronics,18604,3.0,Debit Card
+1969,Tom,,F,,Tablet,Electronics,,3.0,Bitcoin
+1970,Arjun,18,F,Bangalore,Headphones,Electronics,Not_Available,1.0,Credit Card
+1971,Anu,,F,Bangalore,Laptop,Electronics,Not_Available,3.0,Cash
+1972,Megha,,Male,Kozhikode,Camera,Electronics,,3.0,Cash
+1973,John,Thirty,F,Kochi,Camera,Electronics,,1.0,Bitcoin
+1974,Ravi,Thirty,M,Chennai,Tablet,Electronics,,3.0,Credit Card
+1975,Kiran,28,F,Chennai,Camera,Electronics,,3.0,Credit Card
+1976,Divya,,Female,Kochi,Camera,Electronics,41168,3.0,Cash
+1977,Arjun,37,F,Trivandrum,Tablet,Electronics,,3.0,Bitcoin
+1978,Anjali,Thirty,F,Kozhikode,Laptop,Electronics,37735,3.0,Cash
+1979,Arjun,,Male,Bangalore,Laptop,Electronics,,3.0,Upi
+1980,Divya,,M,Kozhikode,Headphones,Electronics,,3.0,Debit Card
+1981,Rahul,Thirty,M,Chennai,Tablet,Electronics,,2.0,Upi
+1982,Tom,Thirty,Male,Kochi,Phone,Electronics,,3.0,Cash
+1983,Divya,,Female,Bangalore,Headphones,Electronics,,3.0,
+1984,Arjun,41,Male,Chennai,Headphones,Electronics,45865,3.0,Debit Card
+1985,Tom,44,F,,Phone,Electronics,,3.0,Debit Card
+1986,Anu,,M,Bangalore,Headphones,Electronics,7459,3.0,Bitcoin
+1987,John,Thirty,Male,Chennai,Headphones,Electronics,Not_Available,3.0,Cash
+1988,Aisha,Thirty,F,,Laptop,Electronics,,3.0,Cash
+1989,Tom,,Female,Chennai,Phone,Electronics,Not_Available,3.0,Credit Card
+1990,Aisha,41,M,,Laptop,Electronics,Not_Available,3.0,Upi
+1991,Arjun,48,F,,Tablet,Electronics,Not_Available,3.0,Credit Card
+1992,Arjun,32,F,Kochi,Tablet,Electronics,,3.0,Debit Card
+1993,Meera,,M,Chennai,Tablet,Electronics,,5.0,
+1994,Divya,,F,Kochi,Phone,Electronics,Not_Available,3.0,Cash
+1995,Aisha,,M,Chennai,Laptop,Electronics,Not_Available,3.0,Cash
+1996,Sam,,Male,Trivandrum,Tablet,Electronics,1668,3.0,Debit Card
+1997,Tom,,Female,,Laptop,Electronics,19393,4.0,Bitcoin
+1998,Neha,,Male,,Tablet,Electronics,Not_Available,3.0,Debit Card
+1999,Rahul,,F,Kochi,Tablet,Electronics,Not_Available,3.0,Debit Card

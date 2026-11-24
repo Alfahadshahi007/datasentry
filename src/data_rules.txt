@@ -1,0 +1,6 @@
+[POLICY-01 | Age & Demographics] Employee or user age values must strictly fall between 18 and 65. Any age above 65 or below 18 is a severe domain violation and must be flagged as an outlier.
+[POLICY-02 | Compensation & Salary] Annual salary values must be positive and cannot exceed 500,000 without executive audit sign-off. Missing salary figures should be imputed using Linear Regression when correlated numeric predictors (such as age or experience_years) are available.
+[POLICY-03 | Duplicate Records] Exact duplicate rows violate data warehouse primary-key integrity and must always be purged before downstream analytics.
+[POLICY-04 | Categorical Text Standardization] Location (loc), profession (prof), and department labels must follow consistent Title Case formatting with leading/trailing whitespace stripped to prevent group-by fragmentation.
+[POLICY-05 | Missing Data Thresholds] Columns with less than 20% missing cells should be repaired via statistical imputation rather than dropping rows. If no correlated numeric columns exist for regression, fall back to Median imputation.
+[POLICY-06 | Privacy & PII Compliance] Raw personally identifiable records must never be transmitted to external LLM APIs; only aggregated schema telemetry and summary counts may leave the local environment.
